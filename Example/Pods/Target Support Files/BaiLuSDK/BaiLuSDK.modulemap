@@ -1,0 +1,6 @@
+framework module BaiLuSDK {
+  umbrella header "BaiLuSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
